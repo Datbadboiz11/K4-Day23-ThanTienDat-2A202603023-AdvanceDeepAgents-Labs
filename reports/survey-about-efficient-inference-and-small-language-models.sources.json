@@ -1,0 +1,82 @@
+[
+  {
+    "n": 1,
+    "id": "2211.07715",
+    "url": "https://huggingface.co/papers/2211.07715",
+    "title": "Fast DistilBERT on CPUs",
+    "date": "2022-10-27",
+    "source": "hf-search"
+  },
+  {
+    "n": 2,
+    "id": "2502.14305",
+    "url": "https://huggingface.co/papers/2502.14305",
+    "title": "Scaling Down, Serving Fast: Compressing and Deploying Efficient LLMs for Recommendation Systems",
+    "date": "2025-10-26",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2409.01990",
+    "url": "https://huggingface.co/papers/2409.01990",
+    "title": "Contemporary Model Compression on Large Language Models Inference",
+    "date": "2024-09-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2604.02501",
+    "url": "https://arxiv.org/abs/2604.02501",
+    "title": "ECG Foundation Models and Medical LLMs for Agentic Cardiovascular Intelligence at the Edge: A Review and Outlook",
+    "date": "2026-04-02",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2409.15790",
+    "url": "https://arxiv.org/abs/2409.15790",
+    "title": "Small Language Models: Survey, Measurements, and Insights",
+    "date": "2025-02-26",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2025.acl-long.718",
+    "url": "https://aclanthology.org/anthology-files/anthology-files/pdf/acl/2025.acl-long.718.pdf",
+    "title": "Demystifying Small Language Models for Edge Deployment",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "hbr-small-language-models",
+    "url": "https://hbr.org/2025/09/the-case-for-using-small-language-models",
+    "title": "The Case for Using Small Language Models",
+    "date": "2025-09-08",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "blog-nvidia-key-to-scalable-agentic-ai",
+    "url": "https://developer.nvidia.com/blog/how-small-language-models-are-key-to-scalable-agentic-ai/",
+    "title": "How Small Language Models Are Key to Scalable Agentic AI",
+    "date": "2025-08-29",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "deviniti-small-language-models-ai",
+    "url": "https://deviniti.com/blog/enterprise-software/small-language-models-for-enterprise-ai/",
+    "title": "Small Language Models for Enterprise AI",
+    "date": "2024-12-12",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "infoworld-top-5-use-cases",
+    "url": "https://www.infoworld.com/article/3619231/top-5-use-cases-for-small-language-models.html",
+    "title": "Top 5 Use Cases for Small Language Models",
+    "date": "2024-12-17",
+    "source": "web"
+  }
+]

@@ -92,14 +92,24 @@ python research.py "survey about world model"
 
 Kết quả nằm ở `reports/survey-about-world-model.md` cùng `.sources.json` và `.meta.json`.
 
-## 6. Chủ đề và nộp bài
+## 6. Cấu trúc và cách đọc thư mục `reports/`
 
-- Chạy đủ **5 chủ đề** trong [`topics.md`](topics.md), mỗi chủ đề một lần.
-- Commit mã nguồn và toàn bộ `reports/`, đẩy lên một **public repo** GitHub và nộp link.
-- Kiểm tra trước khi nộp: chạy **`python self_check.py`** (không tốn token): nó kiểm tra đủ 5 báo cáo, `meta.json`, trích dẫn bằng `check_citations.py` của bạn, và không có `.env`/khóa nào trong git.
-- Cách chấm: xem [`RUBRIC.md`](RUBRIC.md).
+Mỗi chủ đề nghiên cứu khi hoàn thành sẽ sinh ra bộ 3 tệp tương ứng trong thư mục `reports/`:
+- `<slug>.md`: Báo cáo khảo sát nghiên cứu hoàn chỉnh bằng Markdown, tuân thủ cấu trúc chuẩn (`TL;DR`, `Background & Motivation`, các mục chuyên đề, `Trends and Open Problems`, và danh sách tham khảo `## References`). Toàn bộ luận điểm trong bài đều được trích dẫn bằng mã `[n]`.
+- `<slug>.sources.json`: Danh sách tất cả các nguồn tài liệu được trích dẫn trong báo cáo (đã qua bước lọc bỏ nguồn dư thừa và chuẩn hóa bởi `finalize_citations.py`). Mỗi nguồn gồm `n`, `id`, `url`, `title`, `date`, và họ nguồn `source` (`arxiv`, `hf-daily`, `hf-search`, hoặc `web`).
+- `<slug>.meta.json`: Tệp siêu dữ liệu ghi nhận quá trình chạy của Agent: mô hình sử dụng, thời gian thực thi (`elapsed_s`), số lần gọi subagent (`subagent_calls >= 3`), số lượng token, và danh sách các họ nguồn đã khai thác (`source_families >= 3`).
 
-## 7. Thời gian, chi phí và an toàn
+## 7. Chủ đề và nộp bài
+
+- Đã chạy đủ **5 chủ đề** theo [`topics.md`](topics.md).
+- Commit toàn bộ mã nguồn và thư mục `reports/` lên một public repository trên GitHub.
+- Trước khi nộp, luôn kiểm tra với script:
+  ```bash
+  python self_check.py
+  ```
+  Script đảm bảo cả 5 báo cáo hợp lệ, trích dẫn chuẩn xác, đủ số họ nguồn và không lộ bí mật / API key.
+
+## 8. Thời gian, chi phí và an toàn
 
 - Dùng một mô hình **rẻ nhưng hỗ trợ tool calling**, và **đặt giới hạn** (số lần gọi mô hình/công cụ cho lead và subagent, `recursion_limit`): một prompt hỏng có thể khiến agent lặp rất lâu. Đây là hạng mục 2.5 của `RUBRIC.md`.
 - Kết quả có tính ngẫu nhiên: cùng một mã có thể cho báo cáo hợp lệ ở lần này và trích dẫn lỗi ở lần sau. Hãy sửa **prompt và mã**, không sửa tay báo cáo.

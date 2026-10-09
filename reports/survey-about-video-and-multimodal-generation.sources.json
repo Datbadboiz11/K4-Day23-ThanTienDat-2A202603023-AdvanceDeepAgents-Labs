@@ -1,0 +1,74 @@
+[
+  {
+    "n": 1,
+    "id": "2610.11316",
+    "url": "https://arxiv.org/abs/2610.11316",
+    "title": "MetaEncoder: Exploring the Limit of Bi-Encoders for Multimodal System One Decision Making with Natural Language Interface",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2610.07987",
+    "url": "https://arxiv.org/abs/2610.07987",
+    "title": "VisionWeave: Weaving Elastic Visual Representations as a Native Capability of MLLMs",
+    "date": "2026-10-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2609.39047",
+    "url": "https://arxiv.org/abs/2609.39047",
+    "title": "BadAction: Backdoor Attacks on Interactive Video Generation via Action-Guided Triggers",
+    "date": "2026-09-30",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2405.13195",
+    "url": "https://huggingface.co/papers/2405.13195",
+    "title": "CamViG: Camera Aware Image-to-Video Generation with Multimodal Transformers",
+    "date": "2024-05-21",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2504.08641",
+    "url": "https://huggingface.co/papers/2504.08641",
+    "title": "Training-free Guidance in Text-to-Video Generation via Multimodal Planning and Structured Noise Initialization",
+    "date": "2025-04-11",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2402.03040",
+    "url": "https://huggingface.co/papers/2402.03040",
+    "title": "InteractiveVideo: User-Centric Controllable Video Generation with Synergistic Multimodal Instructions",
+    "date": "2024-02-05",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2501.13452",
+    "url": "https://huggingface.co/papers/2501.13452",
+    "title": "EchoVideo: Identity-Preserving Human Video Generation by Multimodal Feature Fusion",
+    "date": "2025-01-23",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2511.18780",
+    "url": "https://huggingface.co/papers/2511.18780",
+    "title": "ConceptGuard: Proactive Safety in Text-and-Image-to-Video Generation through Multimodal Risk Detection",
+    "date": "2025-11-24",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "construction-site-management",
+    "url": "https://www.mdpi.com/2624-6511/9/7/114",
+    "title": "Multimodal Generative AI for Construction-Site Management and Monitoring: A Field-Based Evaluation",
+    "date": "2026-07-02",
+    "source": "web"
+  }
+]

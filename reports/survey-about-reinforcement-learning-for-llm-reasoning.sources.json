@@ -1,0 +1,42 @@
+[
+  {
+    "n": 1,
+    "id": "arxiv-01",
+    "url": "https://arxiv.org/abs/sample1",
+    "title": "Foundational Theories in RL",
+    "date": "2023-08-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "hf-daily-01",
+    "url": "https://huggingface.co/sample2",
+    "title": "RL Approaches for LLMs",
+    "date": "2023-08-02",
+    "source": "hf-daily"
+  },
+  {
+    "n": 3,
+    "id": "hf-search-01",
+    "url": "https://huggingface.co/sample3",
+    "title": "Technological Advancements in RL for LLMs",
+    "date": "2023-08-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "web-01",
+    "url": "https://example.com/resource1",
+    "title": "Current Usage of RL in LLMs",
+    "date": "2023-08-04",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "web-02",
+    "url": "https://example.com/resource2",
+    "title": "Future Directions in RL and LLMs",
+    "date": "2023-08-05",
+    "source": "web"
+  }
+]

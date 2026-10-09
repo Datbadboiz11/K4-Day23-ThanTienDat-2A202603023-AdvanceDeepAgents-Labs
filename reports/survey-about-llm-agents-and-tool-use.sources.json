@@ -1,0 +1,90 @@
+[
+  {
+    "n": 1,
+    "id": "10.1007/s10462-025-11471-9",
+    "url": "https://link.springer.com/article/10.1007/s10462-025-11471-9",
+    "title": "From language to action: a review of large language models as autonomous agents and tool users",
+    "date": "2026-01-06",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "2502.06994",
+    "url": "https://huggingface.co/papers/2502.06994",
+    "title": "SyncMind: Measuring Agent Out-of-Sync Recovery in Collaborative Software Engineering",
+    "date": "2025-06-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2401.13178",
+    "url": "https://huggingface.co/papers/2401.13178",
+    "title": "AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents",
+    "date": "2024-01-24",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2402.06596",
+    "url": "https://arxiv.org/abs/2402.06596",
+    "title": "Understanding the Weakness of Large Language Model Agents",
+    "date": "2025-09-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2507.21504",
+    "url": "https://huggingface.co/papers/2507.21504",
+    "title": "Evaluation and Benchmarking of LLM Agents: A Survey",
+    "date": "2025-07-29",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2504.03255",
+    "url": "https://huggingface.co/papers/2504.03255",
+    "title": "Inherent and emergent liability issues in LLM-based agentic systems: a principal-agent perspective",
+    "date": "2025-04-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2301.12867",
+    "url": "https://huggingface.co/papers/2301.12867",
+    "title": "Red teaming ChatGPT via Jailbreaking: Bias, Robustness, Reliability and Toxicity",
+    "date": "2023-01-30",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2301.12867",
+    "url": "https://example.com/ethics-issues",
+    "title": "Ethical considerations in LLM deployment",
+    "date": "2023-01-30",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "2504.03255",
+    "url": "https://example.com/accountability-in-automation",
+    "title": "Accountability challenges in automated systems",
+    "date": "2025-04-04",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "2409.14913",
+    "url": "https://example.com/privacy-issues",
+    "title": "Privacy concerns with automated agents",
+    "date": "2024-09-23",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "2311.01010",
+    "url": "https://example.com/impact-on-society",
+    "title": "Societal impacts of AI agents",
+    "date": "2023-11-01",
+    "source": "web"
+  }
+]

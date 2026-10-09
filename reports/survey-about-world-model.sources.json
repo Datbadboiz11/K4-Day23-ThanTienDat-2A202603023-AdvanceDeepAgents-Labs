@@ -1,0 +1,90 @@
+[
+  {
+    "n": 1,
+    "id": "2610.12436",
+    "url": "https://arxiv.org/abs/2610.12436",
+    "title": "Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2610.12235",
+    "url": "https://arxiv.org/abs/2610.12235",
+    "title": "Language Models as AI Research World Models",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2503.18938",
+    "url": "https://huggingface.co/papers/2503.18938",
+    "title": "AdaWorld: Learning Adaptable World Models with Latent Actions",
+    "date": "2025-03-24",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2602.08025",
+    "url": "https://huggingface.co/papers/2602.08025",
+    "title": "MIND: Benchmarking Memory Consistency and Action Control in World Models",
+    "date": "2026-02-08",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2606.12783",
+    "url": "https://arxiv.org/abs/2606.12783",
+    "title": "A Tutorial on World Models and Physical AI",
+    "date": "2026-06-11",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2602.00785v1",
+    "url": "https://arxiv.org/pdf/2602.00785v1",
+    "title": "World Models as an Intermediary between Agents and the Real World",
+    "date": "N/A",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2606.00133",
+    "url": "https://arxiv.science/abs/2606.00133",
+    "title": "World Models: A Comprehensive Survey of Architectures, Methodologies, Reasoning Paradigms, and Applications",
+    "date": "2026-05-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "N/A",
+    "url": "https://www.datacamp.com/tutorial/what-are-ai-world-models",
+    "title": "What Are AI World Models? How They Work and 2026 Trends",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "3746449",
+    "url": "https://dl.acm.org/doi/10.1145/3746449",
+    "title": "Understanding World or Predicting Future? A Comprehensive Survey of World Models",
+    "date": "2025-09-09",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "state-of-world-models-2026",
+    "url": "https://world-models.io/reports/state-of-world-models-2026/",
+    "title": "State of World Models 2026 | Landscape Report",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "2607.06401",
+    "url": "https://arxiv.org/html/2607.06401",
+    "title": "A Definition and Roadmap for World Models",
+    "date": "N/A",
+    "source": "arxiv"
+  }
+]
